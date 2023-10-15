@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.GithubApplication" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+
+    </style>
+
+    <style name="favorite_theme" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:icon">@drawable/ic_fav_black</item>
+    </style>
+
+    <style name="setting_theme" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:icon">@drawable/ic_setting_light</item>
+    </style>
+
+    <style name="Theme.GithubApplication" parent="Base.Theme.GithubApplication" />
+</resources>

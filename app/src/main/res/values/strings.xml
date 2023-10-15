@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Github Apps</string>
+    <string name="detail_user">Detail Users</string>
+    <string name="fav_user">Favorite Users</string>
+    <string name="menu_setting">Settings</string>
+    <string name="searchbar_hint">Search Username</string>
+    <string name="error">Maaf User Tidak Ditemukan</string>
+    <string name="tab_1">Followers</string>
+    <string name="tab_2">Following</string>
+    <string name="followers">%d Followers</string>
+    <string name="following">%d Following</string>
+    <string name="fav">Favorite</string>
+    <string name="setting">Setting</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="dark_theme">Dark Theme</string>
+    <string name="light_theme">Light Theme</string>
+</resources>
